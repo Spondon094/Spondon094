@@ -12,7 +12,7 @@
 - 🏅 I hold the **AWS Certified Solutions Architect – Associate** certification from **Amazon Web Services (AWS)** and the **CKA: Certified Kubernetes Administrator** certification from **The Linux Foundation**.
 - 📍 Based in **Erlangen, Germany**
 - 🤝 Open to collaboration in **data-driven software development, mathematical modelling, optimization, HPC and research-oriented projects**
-- ✉️ Contact: Email: [spondonsarker02@gmail.com](mailto:spondonsarker02@gmail.com) My inbox is open for collaborations, questions, or just a friendly hi.
+- ✉️ Contact: Write me [spondonsarker02@gmail.com](mailto:spondonsarker02@gmail.com) My inbox is open for collaborations, questions, or just a friendly hi.
 - ⚡ Fun Fact: In medical imaging, mathematics helps make the invisible visible.
 
 
