@@ -1,5 +1,7 @@
 # Hi there! I'm Spondon👋
 
+🎯 I build and deploy production-ready ML systems — combining Machine Learning with DevOps infrastructure on AWS, Docker & Kubernetes.
+
 ## Here are some details about me:
 
 - 🎓 M.Sc. in **Computational and Applied Mathematics** from **Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany**
