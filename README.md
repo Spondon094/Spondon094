@@ -44,3 +44,11 @@ AWS • Azure • BigQuery • Docker • Kubernetes • Terraform
 - Data analysis and visualization
 - Scientific computing
 - AI for practical applications
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spondon094&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spondon094&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spondon094&theme=dark)
