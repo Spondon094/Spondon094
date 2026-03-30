@@ -58,8 +58,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spondon094&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spondon094&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spondon094&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spondon094&show_icons=true&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spondon094&layout=compact&theme=dark&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Spondon094&theme=dark)
