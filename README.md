@@ -57,7 +57,6 @@
 - AI for practical applications
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spondon094&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-stats.as93.net/api?username=Spondon094&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spondon094&layout=compact&theme=dark&hide_border=true&langs_count=6)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Spondon094&theme=dark)
